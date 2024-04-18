@@ -1,5 +1,7 @@
 # Simple Calculator
 
+![IMG](https://i.ibb.co/phB5hxG/image-2024-04-18-102614468.png)
+
 This is a simple calculator web application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
